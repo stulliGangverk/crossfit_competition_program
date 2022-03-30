@@ -112,7 +112,7 @@ def addTopTeamsToOverallFile(teamScoreList: list, categoryString: str) -> None:
 def generateFiles(teamScoreList: list, categoryString: str) -> None:
     folderPath = ""
     folderPath = PATH + '/' + shared.getCompetitionName() + '/' + '/'.join(categoryString.split('_'))
-    
+
     if teamScoreList:
         keyList = teamScoreList[0].keys()
         keySet = set()
@@ -148,12 +148,17 @@ def generateCategoryFolders() -> None:
             if not os.path.exists(categoryPath + '/general'):
                 os.mkdir(categoryPath + '/general')
 
-def calculateWorkoutsHelper(workoutList: list, categoryString: str) -> None:
+def calculateWorkoutsHelper(workoutList: list, categoryString: str, upToNumber: int | None) -> None:
     workoutDataList = []
 
-    for workout in workoutList:
-        workoutDictList = calculate_workout.calculateWorkout(workout + '.csv', categoryString)
-        workoutDataList.append({'workout': workout, 'results': workoutDictList, 'category': categoryString})
+    if upToNumber == None:
+        for workout in workoutList:
+            workoutDictList = calculate_workout.calculateWorkout(workout + '.csv', categoryString)
+            workoutDataList.append({'workout': workout, 'results': workoutDictList, 'category': categoryString})
+    else:
+        for x in range(0, upToNumber):
+            workoutDictList = calculate_workout.calculateWorkout(workoutList[x] + '.csv', categoryString)
+            workoutDataList.append({'workout': workoutList[x], 'results': workoutDictList, 'category': categoryString})
 
     orderedTeamsListScore = calculateTeamsScore(workoutDataList, categoryString)
     generateFiles(orderedTeamsListScore, categoryString)
@@ -177,7 +182,7 @@ def createOverallFile() -> None:
 
     open(competitionPath + '/' + consts.OVERALLFILENAME, "w")
 
-def checkIfWorkoutsCanBeCalculated() -> None:
+def checkIfWorkoutsCanBeCalculated(upToNumber: int | None) -> None:
     competitonName = shared.getCompetitionName()
 
     # Do the competitions file exist
@@ -186,23 +191,30 @@ def checkIfWorkoutsCanBeCalculated() -> None:
         quit()
 
     workoutList = shared.getAllWorkouts()
-    for workout in workoutList:
-        csvPath = workout + '.csv'
-        # Does the workout file exist
-        if not os.path.exists(SETUP_WORKOUTS_PATH + '/' + competitonName + '/' + csvPath):
-            print("The workout file for " + workout + " has not been setup")
-            quit()
-    
-        # Check if some score has not been filled out
-        workoutData = shared.getDataFromFile(csvPath)
-        for data in workoutData:
-            if data['Skor'] == '' or data['Skor'] == None:
-                print("Error found in " + workout)
-                print("Skor has not been added for team " + data[shared.getWorkoutFieldToIndexFor()])
-                quit()
+    if (upToNumber == None):
+        for workout in workoutList:
+            checkIfWorkoutsCanBeCalculatedHelper(workout, competitonName)
+    else:
+        for x in range(0, upToNumber):
+            checkIfWorkoutsCanBeCalculatedHelper(workoutList[x], competitonName)
 
-def calculateWorkouts() -> None:
-    checkIfWorkoutsCanBeCalculated()
+def checkIfWorkoutsCanBeCalculatedHelper(workout: dict, competitonName: str):
+    csvPath = workout + '.csv'
+    # Does the workout file exist
+    if not os.path.exists(SETUP_WORKOUTS_PATH + '/' + competitonName + '/' + csvPath):
+        print("The workout file for " + workout + " has not been setup")
+        quit()
+
+    # Check if some score has not been filled out
+    workoutData = shared.getDataFromFile(csvPath)
+    for data in workoutData:
+        if data['Skor'] == '' or data['Skor'] == None:
+            print("Error found in " + workout)
+            print("Skor has not been added for team " + data[shared.getWorkoutFieldToIndexFor()])
+            quit()
+
+def calculateWorkouts(upToNumber: int | None = None) -> None:
+    checkIfWorkoutsCanBeCalculated(upToNumber)
 
     resetCompetitionFolder()
     createOverallFile()
@@ -212,9 +224,23 @@ def calculateWorkouts() -> None:
 
     for firstCategory in firstCategoryList:
         if len(secondCategoryList) > 0:
-            calculateWorkoutsHelper(workoutList, firstCategory + '_' + consts.GENERALGROUPNAME)
+            calculateWorkoutsHelper(workoutList, firstCategory + '_' + consts.GENERALGROUPNAME, upToNumber)
             for secondCategory in secondCategoryList:
                 categoryString = firstCategory + '_' + secondCategory
-                calculateWorkoutsHelper(workoutList, categoryString)
+                calculateWorkoutsHelper(workoutList, categoryString, upToNumber)
         else:
-            calculateWorkoutsHelper(workoutList, firstCategory)
+            calculateWorkoutsHelper(workoutList, firstCategory, upToNumber)
+
+    print("Calculations are now finished")
+
+def calculateCertainWorkouts() -> None:
+    workoutList = shared.getAllWorkouts()
+    print("Choose the workout up to and with to calculate score from")
+    for x in range(0, len(workoutList)):
+        print(str(1 + x) + ": " + workoutList[x])
+
+    val = int(input("Number: "))
+    if val > 0 and val < len(workoutList) + 1:
+        calculateWorkouts(val)
+    else:
+        print("Please choose a number from the list to sanitize a workout")

@@ -16,22 +16,22 @@ The settings availabe for every competition are as follows
 
 ###CompetitionSettings
     ###CompetitionCategories
-        Opinn_Flokkur_KK
-        Opinn_Flokkur_KVK
-        35_39_KK
-        35_39_KVK
-        40_44_KK
-        40_44_KVK
-        45_49_KK
-        45_49_KVK
-        50_54_KK
-        50_54_KVK
-        55_59_KK
-        55_59_KVK
-        14_15_KK
-        14_15_KVK
-        16_17_KK
-        16_17_KVK
+        Opinn-Flokkur-KK
+        Opinn-Flokkur-KVK
+        35-39-KK
+        35-39-KVK
+        40-44-KK
+        40-44-KVK
+        45-49-KK
+        45-49-KVK
+        50-54-KK
+        50-54-KVK
+        55-59-KK
+        55-59-KVK
+        14-15-KK
+        14-15-KVK
+        16-17-KK
+        16-17-KVK
     ###CompetitionCategories
 
     ###TeamCompetition
