@@ -148,7 +148,7 @@ def generateCategoryFolders() -> None:
             if not os.path.exists(categoryPath + '/general'):
                 os.mkdir(categoryPath + '/general')
 
-def calculateWorkoutsHelper(workoutList: list, categoryString: str, upToNumber: int | None) -> None:
+def calculateWorkoutsHelper(workoutList: list, categoryString: str, upToNumber: int or None) -> None:
     workoutDataList = []
 
     if upToNumber == None:
@@ -182,7 +182,7 @@ def createOverallFile() -> None:
 
     open(competitionPath + '/' + consts.OVERALLFILENAME, "w")
 
-def checkIfWorkoutsCanBeCalculated(upToNumber: int | None) -> None:
+def checkIfWorkoutsCanBeCalculated(upToNumber: int or None) -> None:
     competitonName = shared.getCompetitionName()
 
     # Do the competitions file exist
@@ -213,7 +213,7 @@ def checkIfWorkoutsCanBeCalculatedHelper(workout: dict, competitonName: str):
             print("Skor has not been added for team " + data[shared.getWorkoutFieldToIndexFor()])
             quit()
 
-def calculateWorkouts(upToNumber: int | None = None) -> None:
+def calculateWorkouts(upToNumber: int or None = None) -> None:
     checkIfWorkoutsCanBeCalculated(upToNumber)
 
     resetCompetitionFolder()
