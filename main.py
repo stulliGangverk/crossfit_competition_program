@@ -40,7 +40,7 @@ def main():
 
 # main()
 
-calculate_results.calculateWorkouts()
+setup_workouts.setupWorkouts()
 
 
 # v = (65+70) * 1.43
