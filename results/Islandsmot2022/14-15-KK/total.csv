@@ -1,6 +1,6 @@
-Nafn,workout1_points,workout1_score,total_points
-Kristinn Hilmarsson,100,5.03,100
-Hilmir Hrafnkelsson,95,5.37,95
-Jón Þorri Jónsson,90,8.42,90
-Haukur Rafn Sigurðsson,85,15.33,85
-Aron Leó Jóhannson,80,15.38,80
+Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,workout4_points,workout4_score,total_points
+Aron Leó Jóhannson,95,8.05,80,19.36,100,9.2,95,97.0,370
+Jón Þorri Jónsson,100,6.1,90,15.47,90,16.45,85,75.0,365
+Kristinn Hilmarsson,80,20.45,95,11.28,95,11.12,90,91.0,360
+Hilmir Hrafnkelsson,90,10.45,100,7.08,85,18.53,80,74.0,355
+Haukur Rafn Sigurðsson,85,20.04,85,16.23,80,20.54,100,111.0,350

@@ -1,7 +1,7 @@
-Nafn,workout1_points,workout1_score,total_points
-Magnús Gíslason,100,5.54,100
-Elías Árni Jónsson,95,8.13,95
-Steinar Sigurðarson,90,9.08,90
-Sigtryggur Símonarson,85,10.1,85
-Ægir Reynisson,80,13.17,80
-Evert Víglundsson,75,16.35,75
+Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,workout4_points,workout4_score,total_points
+Magnús Gíslason,90,8.57,100,5.08,85,12.22,95,129.0,370
+Evert Víglundsson,75,15.32,90,9.33,100,8.19,100,141.0,365
+Elías Árni Jónsson,100,5.27,85,11.51,90,12.06,85,121.0,360
+Sigtryggur Símonarson,95,8.39,95,7.54,85,12.22,80,102.0,355
+Steinar Sigurðarson,80,13.08,80,12.6,95,9.37,75,72.0,330
+Ægir Reynisson,85,9.03,75,16.18,75,19.29,90,126.0,325

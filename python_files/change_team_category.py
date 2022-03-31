@@ -1,6 +1,7 @@
 import python_files.shared as shared
 import python_files.setup_workouts as setup_workouts
 
+
 def findTeams() -> list:
     returnList = []
 
@@ -21,13 +22,15 @@ def findTeams() -> list:
 
     return returnList
 
+
 def checkIfIndexExists(teams: list, number: int) -> None:
     for team in teams:
         if team['num'] == number:
             return
 
     print("Number inputted does not exist")
-    quit()        
+    quit()
+
 
 def pickTeam(teams: list) -> dict:
     print()
@@ -51,9 +54,10 @@ def pickCategory() -> str:
 
     if categoryIndex <= 0 or categoryIndex > len(categories):
         print("Number inputted does not exist")
-        quit()  
+        quit()
 
     return categories[categoryIndex - 1]
+
 
 def overrideLineList(list: list, keys: list, category: str) -> list:
     categories, _ = shared.getCategoriesForFolderCreation()
@@ -76,7 +80,8 @@ def overrideLineList(list: list, keys: list, category: str) -> list:
 
 
 def overrideTeamDocument(team: dict, category: str) -> None:
-    fileLines = shared.readFile('lidin.csv', fileFolder='competitions/' + shared.getCompetitionName())
+    fileLines = shared.readFile(
+        'lidin.csv', fileFolder='competitions/' + shared.getCompetitionName())
     teamsData = shared.getDataFromFile('lidin.csv')
     keyList = [*teamsData[0].keys()]
 

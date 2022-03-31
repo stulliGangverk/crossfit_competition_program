@@ -63,4 +63,5 @@ def main():
 # calculate_results.calculateCertainWorkouts()
 
 
-user_modification.addUser()
+# user_modification.addUser()
+user_modification.removeUser()

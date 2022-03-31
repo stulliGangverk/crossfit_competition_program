@@ -1,93 +1,93 @@
-Opinn-Flokkur-KK   (10 liğ)
-	1:  Garğar Karl Ólafsson - 100
-	2:  Óskar Marínó - 95
-	3:  Sigurğur Jónsson - 90
+Opinn-Flokkur-KK   (10 liÃ°)
+	1:  Alex DaÃ°i Reynisson - 355
+	2:  SigurÃ°ur JÃ³nsson - 345
+	3:  Eggert Ã“lafsson - 330
 
 
-Opinn-Flokkur-KVK   (10 liğ)
-	1:  Jóhanna Júlía Júlíusdóttir - 100
-	2:  Ingibjörg Malmquist - 95
-	3:  Dísa Edwards - 90
+Opinn-Flokkur-KVK   (10 liÃ°)
+	1:  IngibjÃ¶rg Malmquist - 375
+	2:  SigrÃ­Ã°ur SjÃ¶fn IngvarsdÃ³ttir - 330
+	3:  BryndÃ­s MarÃ­a BjÃ¶rnsdÃ³ttir - 320
 
 
-35-39-KK   (6 liğ)
-	1:  Hörğur Orri Grettisson - 100
-	2:  Kristján Guğjónsson - 95
-	3:  Heiğar Heiğarsson - 90
+35-39-KK   (6 liÃ°)
+	1:  HeiÃ°ar HeiÃ°arsson - 375
+	2:  Ingvar Svavarsson - 360
+	3:  KristjÃ¡n GuÃ°jÃ³nsson - 355
 
 
-35-39-KVK   (5 liğ)
-	1:  Hildur Guğnı Káradóttir - 100
-	2:  Kristín Sif Björgvinsdóttir - 95
-	3:  Erla Júlía Jónsdóttir - 90
+35-39-KVK   (5 liÃ°)
+	1:  KristÃ­n Sif BjÃ¶rgvinsdÃ³ttir - 370
+	2:  Alma KÃ¡radÃ³ttir - 365
+	3:  BjarnÃ½ ÃorvarÃ°ardÃ³ttir - 360
 
 
-40-44-KK   (3 liğ)
-	1:  Gísli Pálsson - 100
-	2:  Vignir Bjarnason - 95
-	3:  Guğjón Ólafsson - 90
+40-44-KK   (4 liÃ°)
+	1:  GuÃ°jÃ³n Ã“lafsson - 380
+	2:  Vignir Bjarnason - 375
+	3:  ÃÃ³runn BjÃ¶rk SteingrÃ­msdÃ³ttir - 375
 
 
-40-44-KVK   (5 liğ)
-	1:  Erla Guğmundsdóttir - 100
-	2:  Anna Svavarsdóttir - 95
-	3:  Andrea Ósk Guğlaugsdóttir - 90
+40-44-KVK   (5 liÃ°)
+	1:  Rakel TryggvadÃ³ttir - 390
+	2:  Andrea Ã“sk GuÃ°laugsdÃ³ttir - 365
+	3:  Anna SvavarsdÃ³ttir - 355
 
 
-45-49-KK   (6 liğ)
-	1:  Magnús Gíslason - 100
-	2:  Elías Árni Jónsson - 95
-	3:  Steinar Sigurğarson - 90
+45-49-KK   (6 liÃ°)
+	1:  MagnÃºs GÃ­slason - 370
+	2:  Evert VÃ­glundsson - 365
+	3:  ElÃ­as Ãrni JÃ³nsson - 360
 
 
-45-49-KVK   (2 liğ)
-	1:  Helga Guğmundsdóttir - 100
-	2:  E. Linda Helgadóttir - 95
+45-49-KVK   (2 liÃ°)
+	1:  E. Linda HelgadÃ³ttir - 400
+	2:  Helga GuÃ°mundsdÃ³ttir - 380
 
 
-50-54-KK   (4 liğ)
-	1:  Heiğar Örn sverrisson - 100
-	2:  Sigursveinn P. Hjaltalín - 95
-	3:  Guğjón Arinbjörnsson - 90
+50-54-KK   (4 liÃ°)
+	1:  Sigursveinn P. HjaltalÃ­n - 385
+	2:  SÃ¦mundur Ãrnason - 380
+	3:  GuÃ°jÃ³n ArinbjÃ¶rnsson - 365
 
 
-50-54-KVK   (5 liğ)
-	1:  Jóhanna Jóhannsdóttir - 100
-	2:  Hrönn Birgisdóttir - 95
-	3:  Ingibjörg Gísladóttir - 90
+50-54-KVK   (5 liÃ°)
+	1:  IngibjÃ¶rg JÃ³nsdÃ³ttir - 370
+	2:  HrÃ¶nn BirgisdÃ³ttir - 370
+	3:  KristÃ­n KristjÃ¡nsdÃ³ttir - 365
 
 
-55-59-KK   (5 liğ)
-	1:  Eggert Marínósson - 100
-	2:  Örn V. Arnarson - 95
-	3:  Gísli Hjartarson - 90
+55-59-KK   (5 liÃ°)
+	1:  Ã–rn V. Arnarson - 375
+	2:  Eggert MarÃ­nÃ³sson - 370
+	3:  Hrafnkell Sigtryggsson - 365
 
 
-55-59-KVK   (1 liğ)
-	1:  Elín Sveinsdóttir - 100
+55-59-KVK   (1 liÃ°)
+	1:  ElÃ­n SveinsdÃ³ttir - 400
 
 
-14-15-KK   (5 liğ)
-	1:  Kristinn Hilmarsson - 100
-	2:  Hilmir Hrafnkelsson - 95
-	3:  Jón Şorri Jónsson - 90
+14-15-KK   (5 liÃ°)
+	1:  Aron LeÃ³ JÃ³hannson - 370
+	2:  JÃ³n Ãorri JÃ³nsson - 365
+	3:  Kristinn Hilmarsson - 360
 
 
-14-15-KVK   (4 liğ)
-	1:  Guğrún Lilja Dagbjartsdóttir - 100
-	2:  Hulda Finnbogadóttir - 95
-	3:  Bergrós Björnsdóttir - 90
+14-15-KVK   (4 liÃ°)
+	1:  Hulda FinnbogadÃ³ttir - 375
+	2:  BergrÃ³s BjÃ¶rnsdÃ³ttir - 370
+	3:  GuÃ°rÃºn Lilja DagbjartsdÃ³ttir - 370
 
 
-16-17-KK   (6 liğ)
-	1:  Ağalsteinn Şorsteinsson - 100
-	2:  Almar Daği Harğarson - 95
-	3:  Tryggvi Freyr Magnússon - 90
+16-17-KK   (6 liÃ°)
+	1:  Ãorbergur Hlynsson - 370
+	2:  Almar DaÃ°i HarÃ°arson - 365
+	3:  Ari TÃ³mas HjÃ¡lmarsson - 350
 
 
-16-17-KVK   (6 liğ)
-	1:  Elísa Mist Benediktsdóttir - 100
-	2:  Şórkatla İr Friğriksdóttir - 95
-	3:  Steinunn Soffía Hauksdóttir - 90
+16-17-KVK   (6 liÃ°)
+	1:  ElÃ­sa Mist BenediktsdÃ³ttir - 395
+	2:  Ãšlfhildur UnnarsdÃ³ttir - 365
+	3:  Thelma Ã“sk BjÃ¶rgvinsdÃ³ttir - 355
 
 

@@ -1,5 +1,5 @@
-Nafn,workout1_points,workout1_score,total_points
-Heiðar Örn sverrisson,100,8.38,100
-Sigursveinn P. Hjaltalín,95,11.42,95
-Guðjón Arinbjörnsson,90,15.25,90
-Sæmundur Árnason,85,15.48,85
+Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,workout4_points,workout4_score,total_points
+Sigursveinn P. Hjaltalín,95,13.51,95,11.3,100,6.21,95,118.0,385
+Sæmundur Árnason,90,18.59,100,6.05,90,12.39,100,130.0,380
+Guðjón Arinbjörnsson,100,8.02,85,13.57,95,10.14,85,80.0,365
+Heiðar Örn sverrisson,85,20.49,90,13.0,85,13.07,90,90.0,350
