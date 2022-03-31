@@ -5,6 +5,7 @@ import python_files.shared as shared
 import python_files.change_team_category as change_team_category
 import python_files.sanitize_teams as sanitize_teams
 import python_files.sanitize_results as sanitize_results
+import python_files.user_modification as user_modification
 
 
 def main():
@@ -13,10 +14,12 @@ def main():
     print("3: Calculate only up to certain workouts")
     print("4: Sanitize results")
     print("5: Sanitize specific workout")
+    print("6: Add user or a team")
+    print("7: Remove user or a team")
     if shared.isTeamCompetition():
-        print("6: Change team's category")
+        print("8: Change team's category")
     if shared.isTeamCompetition():
-        print("7: Sanitize team names")
+        print("9: Sanitize team names")
     val = input("Choose what you wish to do: ")
 
     if val == '1':
@@ -40,18 +43,24 @@ def main():
         sanitize_results.sanitizeSpecificWorkout()
 
     if val == '6':
-        sanitize_results.sanitizeSpecificWorkout()
+        user_modification.addUser()
 
-    if shared.isTeamCompetition() and val == '6':
+    if val == '7':
+        user_modification.removeUser()
+
+    if shared.isTeamCompetition() and val == '8':
         change_team_category.changeTeams()
 
-    if shared.isTeamCompetition() and val == '7':
+    if shared.isTeamCompetition() and val == '9':
         sanitize_teams.sanitizeTeams()
 
 
-main()
+# main()
 
 # setup_workouts.setupWorkouts()
 # calculate_results.calculateWorkouts()
 # sanitize_results.sanitizeSpecificWorkout()
 # calculate_results.calculateCertainWorkouts()
+
+
+user_modification.addUser()

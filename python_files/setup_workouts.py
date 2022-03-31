@@ -6,6 +6,7 @@ import os
 
 PATH = 'competitions'
 
+
 def appendZeroIfNeededToTime(number: int) -> str:
     if number < 10:
         return '0' + str(number)
