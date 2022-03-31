@@ -52,7 +52,7 @@ def addToWorkoutFiles(athleteName: str):
 
 
 def addToFiles(athleteName: str, category: int):
-    # addToTeamsFile(athleteName, category)
+    addToTeamsFile(athleteName, category)
     addToWorkoutFiles(athleteName)
 
 
