@@ -24,6 +24,7 @@ def main():
 
     if val == '1':
         if consts.SETUPWORKOUTS == False:
+            print()
             print("Setting up workouts is disabled in consts, change and run again")
         else:
             if consts.ADDRANDOMSCORES:
