@@ -55,6 +55,8 @@ def addToFiles(athleteName: str, category: int) -> None:
     addToTeamsFile(athleteName, category)
     addToWorkoutFiles(athleteName)
 
+    print("Athlete '" + athleteName + "' has now been added")
+
 
 def addUser() -> None:
     isTeamCompetition = shared.isTeamCompetition()
@@ -96,6 +98,9 @@ def removeUserFromWorkouts(athleteName: str):
 
         competitionName = shared.getCompetitionName()
         path = PATH + '/' + competitionName + '/' + workout + '.csv'
+        with open(path, 'w', encoding='UTF8', newline='') as f:
+            for line in newList:
+                f.write(line)
 
 
 def removeUserHelper(athleteData: list) -> None:
@@ -133,10 +138,12 @@ def removeUserHelper(athleteData: list) -> None:
                 if val == 's':
                     removeUserHelper(athleteData)
                 if val == 'y':
-                    # removeUserFromTeamsFile(athleteName)
+                    removeUserFromTeamsFile(athleteName)
                     removeUserFromWorkouts(athleteName)
 
+                    print()
                     print("Athlete '" + athleteName + "' has been removed")
+                    print()
 
 
 def removeUser():

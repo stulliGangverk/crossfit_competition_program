@@ -55,7 +55,7 @@ def main():
         sanitize_teams.sanitizeTeams()
 
 
-# main()
+main()
 
 # setup_workouts.setupWorkouts()
 # calculate_results.calculateWorkouts()
@@ -64,4 +64,4 @@ def main():
 
 
 # user_modification.addUser()
-user_modification.removeUser()
+# user_modification.removeUser()
