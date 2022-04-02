@@ -88,7 +88,7 @@ def getTopThreeTeams(teamScoreList: list) -> list:
     for i in range(0, 10):
         if len(teamScoreList) > i:
             data = teamScoreList[i]
-            dataStr = '\t' + str(i + 1) + ':  ' + data[shared.getWorkoutFieldToIndexFor()] + ' - ' + str(data['workout1_score'])
+            dataStr = '\t' + str(i + 1) + ':  ' + data[shared.getWorkoutFieldToIndexFor()] + ' - ' + str(data['total_points'])
             returnList.append(dataStr)
 
     return returnList

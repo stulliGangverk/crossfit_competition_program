@@ -29,7 +29,7 @@ Opinn-Flokkur-KVK   (10 keppendur)
 	3:  Heiðar Heiðarsson - 22:55
 	4:  Daði Heimisson - 23:06
 	5:  Hörður Orri Grettisson - 23:32
-	6:  Ingvar Svavarsson - 23:4
+	6:  Ingvar Svavarsson - 23:40
 
 
 35-39-KVK   (5 keppendur)
@@ -85,7 +85,7 @@ Opinn-Flokkur-KVK   (10 keppendur)
 55-59-KK   (4 keppendur)
 	1:  Örn V. Arnarson - 25:38
 	2:  Eggert Marínósson - 25:56
-	3:  Andrés Thor Hinriksson  - 27:10
+	3:  Andrés Thor Hinriksson - 27:10
 	4:  Gísli Hjartarson - 30:42
 
 
@@ -93,15 +93,15 @@ Opinn-Flokkur-KVK   (10 keppendur)
 	1:  Elín Sveinsdóttir - 21:19
 
 
-14-15-KK   (4 keppendur)
+14-15-KK   (3 keppendur)
 	1:  Haukur Rafn Sigurðsson - 23:38
-	2:  Jón Þorri Jónsson - 24:3
+	2:  Jón Þorri Jónsson - 24:30
 	3:  Aron Leó Jóhannson - 27:15
 
 
 14-15-KVK   (4 keppendur)
 	1:  Hulda Finnbogadóttir - 24:55
-	2:  Emiliá Nótt Davíðsdóttir - 26:16
+	2:  Emilía Nótt Davíðsdóttir - 26:16
 	3:  Bergrós Björnsdóttir - 29:47
 	4:  Ísabella Ýr Pétursdóttir - 29:52
 
@@ -109,9 +109,9 @@ Opinn-Flokkur-KVK   (10 keppendur)
 16-17-KK   (6 keppendur)
 	1:  Aðalsteinn Þorsteinsson - 21:24
 	2:  Tindur Elíasen - 22:08
-	3:  Þorbergur Hlynsson - 23:24
-	4:  Almar Daði Harðarson - 24:18
-	5:  Tryggvi Freyr Magnússon - 25:32
+	3:  Þórbergur Hlynsson - 23:24
+	4:  Tryggvi Freyr Magnússon - 24:18
+	5:  Almar Daði Harðarson - 25:32
 	6:  Ari Tómas Hjálmarsson - 30:00
 
 
