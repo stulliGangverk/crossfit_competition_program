@@ -1,5 +1,5 @@
-Nafn,workout1_points,workout1_score,total_points
-Hulda Finnbogadóttir,100,24.55,100
-Emilía Nótt Davíðsdóttir,90,26.16,90
-Bergrós Björnsdóttir,80,29.47,80
-Ísabella Ýr Pétursdóttir,70,29.52,70
+Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,total_points
+Bergrós Björnsdóttir,80,29.47,100,3.22,100,7.51,280
+Hulda Finnbogadóttir,100,24.55,90,3.54,80,15.16,270
+Emilía Nótt Davíðsdóttir,90,26.16,80,4.18,90,13.57,260
+Ísabella Ýr Pétursdóttir,70,29.52,70,6.21,70,60.0,210

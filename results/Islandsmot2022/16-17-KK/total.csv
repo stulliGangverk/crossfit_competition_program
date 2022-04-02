@@ -1,7 +1,7 @@
-Nafn,workout1_points,workout1_score,total_points
-Aðalsteinn Þorsteinsson,100,21.24,100
-Tindur Elíasen,90,22.08,90
-Þórbergur Hlynsson,80,23.24,80
-Tryggvi Freyr Magnússon,70,24.18,70
-Almar Daði Harðarson,60,25.32,60
-Ari Tómas Hjálmarsson,50,30.0,50
+Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,total_points
+Tindur Elíasen,90,22.08,90,3.11,100,11.16,280
+Aðalsteinn Þorsteinsson,100,21.24,70,3.17,90,11.22,260
+Þórbergur Hlynsson,80,23.24,100,3.01,60,15.53,240
+Tryggvi Freyr Magnússon,70,24.18,60,3.33,80,13.45,210
+Ari Tómas Hjálmarsson,50,30.0,80,3.12,70,13.49,200
+Almar Daði Harðarson,60,25.32,50,3.55,50,16.36,160

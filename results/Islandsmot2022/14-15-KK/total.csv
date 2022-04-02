@@ -1,4 +1,4 @@
-Nafn,workout1_points,workout1_score,total_points
-Haukur Rafn Sigurðsson,100,23.38,100
-Jón Þorri Jónsson,90,24.3,90
-Aron Leó Jóhannson,80,27.15,80
+Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,total_points
+Haukur Rafn Sigurðsson,100,23.38,100,3.14,90,10.11,290
+Jón Þorri Jónsson,90,24.3,90,3.39,100,8.17,280
+Aron Leó Jóhannson,80,27.15,80,3.52,80,13.14,240

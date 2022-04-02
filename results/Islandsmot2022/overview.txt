@@ -1,126 +1,126 @@
 Opinn-Flokkur-KK   (9 keppendur)
-	1:  Ingimar Jónsson - 13:45
-	2:  Ægir Björn Gunnsteinsson - 14:17
-	3:  Óskar Marínó - 14:29
-	4:  Axel Guðni Sigurðsson - 14:32
-	5:  Sigurður Jónsson - 14:35
-	6:  Eggert Ólafsson - 14:52
-	7:  Garðar Karl Ólafsson - 15:05
-	8:  Alex Daði Reynisson - 16:04
-	9:  Benjamín Eiríksson - 16:24
+	1:  Ægir Björn Gunnsteinsson - 260
+	2:  Sigurður Jónsson - 230
+	3:  Ingimar Jónsson - 220
+	4:  Eggert Ólafsson - 220
+	5:  Alex Daði Reynisson - 180
+	6:  Óskar Marínó - 180
+	7:  Axel Guðni Sigurðsson - 170
+	8:  Garðar Karl Ólafsson - 100
+	9:  Benjamín Eiríksson - 70
 
 
 Opinn-Flokkur-KVK   (10 keppendur)
-	1:  Guðbjörg Valdimarsdóttir - 13:09
-	2:  Jóhanna Júlía Júlíusdóttir - 13:54
-	3:  Hallgerður María Friðriksdóttir - 14:03
-	4:  Birta Líf Þórarinsdóttir - 14:44
-	5:  Bryndís María Björnsdóttir - 15:04
-	6:  Ingibjörg Malmquist - 15:54
-	7:  Sólrún Sigþórsdóttir - 16:12
-	8:  Sigríður Sjöfn Ingvarsdóttir - 17:32
-	9:  Guðrún Bjarnadóttir - 17:57
-	10:  Dísa Edwards - 18:34
+	1:  Guðbjörg Valdimarsdóttir - 270
+	2:  Jóhanna Júlía Júlíusdóttir - 260
+	3:  Birta Líf Þórarinsdóttir - 230
+	4:  Hallgerður María Friðriksdóttir - 220
+	5:  Bryndís María Björnsdóttir - 180
+	6:  Ingibjörg Malmquist - 160
+	7:  Sigríður Sjöfn Ingvarsdóttir - 100
+	8:  Guðrún Bjarnadóttir - 90
+	9:  Sólrún Sigþórsdóttir - 90
+	10:  Dísa Edwards - 50
 
 
 35-39-KK   (6 keppendur)
-	1:  Stefán Helgi Einarsson - 21:52
-	2:  Kristján Guðjónsson - 22:12
-	3:  Heiðar Heiðarsson - 22:55
-	4:  Daði Heimisson - 23:06
-	5:  Hörður Orri Grettisson - 23:32
-	6:  Ingvar Svavarsson - 23:40
+	1:  Stefán Helgi Einarsson - 260
+	2:  Heiðar Heiðarsson - 250
+	3:  Kristján Guðjónsson - 240
+	4:  Ingvar Svavarsson - 230
+	5:  Hörður Orri Grettisson - 200
+	6:  Daði Heimisson - 170
 
 
 35-39-KVK   (5 keppendur)
-	1:  Alma Káradóttir - 24:16
-	2:  Hildur Guðný Káradóttir - 25:15
-	3:  Bjarný Þorvarðardóttir - 26:28
-	4:  Erla Júlía Jónsdóttir - 26:40
-	5:  Kristín Sif Björgvinsdóttir - 30:12
+	1:  Alma Káradóttir - 300
+	2:  Hildur Guðný Káradóttir - 250
+	3:  Kristín Sif Björgvinsdóttir - 240
+	4:  Bjarný Þorvarðardóttir - 210
+	5:  Erla Júlía Jónsdóttir - 200
 
 
 40-44-KK   (2 keppendur)
-	1:  Guðjón Ólafsson - 23:53
-	2:  Vignir Bjarnason - 60:00
+	1:  Guðjón Ólafsson - 300
+	2:  Vignir Bjarnason - 270
 
 
 40-44-KVK   (5 keppendur)
-	1:  Rakel Tryggvadóttir - 25:28
-	2:  Erla Guðmundsdóttir - 25:29
-	3:  Sigrún Nanna Karlsdóttir - 25:59
-	4:  Anna Svavarsdóttir - 26:59
-	5:  Andrea Ósk Guðlaugsdóttir - 27:28
+	1:  Anna Svavarsdóttir - 270
+	2:  Erla Guðmundsdóttir - 270
+	3:  Rakel Tryggvadóttir - 250
+	4:  Sigrún Nanna Karlsdóttir - 230
+	5:  Andrea Ósk Guðlaugsdóttir - 180
 
 
 45-49-KK   (6 keppendur)
-	1:  Ægir Reynisson - 23:21
-	2:  Evert Víglundsson - 23:24
-	3:  Elías Árni Jónsson - 24:37
-	4:  Magnús Gíslason - 24:45
-	5:  Sigtryggur Símonarson - 25:51
-	6:  Steinar Sigurðarson - 29:30
+	1:  Ægir Reynisson - 300
+	2:  Evert Víglundsson - 250
+	3:  Elías Árni Jónsson - 240
+	4:  Magnús Gíslason - 230
+	5:  Sigtryggur Símonarson - 170
+	6:  Steinar Sigurðarson - 160
 
 
 45-49-KVK   (3 keppendur)
-	1:  Helga Guðmundsdóttir - 25:40
-	2:  E. Linda Helgadóttir - 26:28
-	3:  Anja Karlsdóttir - 27:51
+	1:  Helga Guðmundsdóttir - 300
+	2:  E. Linda Helgadóttir - 270
+	3:  Anja Karlsdóttir - 240
 
 
 50-54-KK   (3 keppendur)
-	1:  Guðjón Arinbjörnsson - 24:32
-	2:  Heiðar Örn sverrisson - 27:34
-	3:  Sæmundur Árnason - 30:54
+	1:  Guðjón Arinbjörnsson - 280
+	2:  Heiðar Örn sverrisson - 280
+	3:  Sæmundur Árnason - 250
 
 
 50-54-KVK   (5 keppendur)
-	1:  Ingibjörg Jónsdóttir - 17:14
-	2:  Ingibjörg Gísladóttir - 17:30
-	3:  Kristín Kristjánsdóttir - 18:03
-	4:  Hrönn Birgisdóttir - 18:25
-	5:  Jóhanna Jóhannsdóttir - 20:18
+	1:  Ingibjörg Gísladóttir - 280
+	2:  Ingibjörg Jónsdóttir - 270
+	3:  Kristín Kristjánsdóttir - 260
+	4:  Hrönn Birgisdóttir - 210
+	5:  Jóhanna Jóhannsdóttir - 180
 
 
 55-59-KK   (4 keppendur)
-	1:  Örn V. Arnarson - 25:38
-	2:  Eggert Marínósson - 25:56
-	3:  Andrés Thor Hinriksson - 27:10
-	4:  Gísli Hjartarson - 30:42
+	1:  Örn V. Arnarson - 290
+	2:  Andrés Thor Hinriksson - 250
+	3:  Gísli Hjartarson - 240
+	4:  Eggert Marínósson - 240
 
 
 55-59-KVK   (1 keppendur)
-	1:  Elín Sveinsdóttir - 21:19
+	1:  Elín Sveinsdóttir - 300
 
 
 14-15-KK   (3 keppendur)
-	1:  Haukur Rafn Sigurðsson - 23:38
-	2:  Jón Þorri Jónsson - 24:30
-	3:  Aron Leó Jóhannson - 27:15
+	1:  Haukur Rafn Sigurðsson - 290
+	2:  Jón Þorri Jónsson - 280
+	3:  Aron Leó Jóhannson - 240
 
 
 14-15-KVK   (4 keppendur)
-	1:  Hulda Finnbogadóttir - 24:55
-	2:  Emilía Nótt Davíðsdóttir - 26:16
-	3:  Bergrós Björnsdóttir - 29:47
-	4:  Ísabella Ýr Pétursdóttir - 29:52
+	1:  Bergrós Björnsdóttir - 280
+	2:  Hulda Finnbogadóttir - 270
+	3:  Emilía Nótt Davíðsdóttir - 260
+	4:  Ísabella Ýr Pétursdóttir - 210
 
 
 16-17-KK   (6 keppendur)
-	1:  Aðalsteinn Þorsteinsson - 21:24
-	2:  Tindur Elíasen - 22:08
-	3:  Þórbergur Hlynsson - 23:24
-	4:  Tryggvi Freyr Magnússon - 24:18
-	5:  Almar Daði Harðarson - 25:32
-	6:  Ari Tómas Hjálmarsson - 30:00
+	1:  Tindur Elíasen - 280
+	2:  Aðalsteinn Þorsteinsson - 260
+	3:  Þórbergur Hlynsson - 240
+	4:  Tryggvi Freyr Magnússon - 210
+	5:  Ari Tómas Hjálmarsson - 200
+	6:  Almar Daði Harðarson - 160
 
 
 16-17-KVK   (6 keppendur)
-	1:  Þórkatla Ýr Friðriksdóttir - 26:33
-	2:  Elísa Mist Benediktsdóttir - 26:35
-	3:  Salka Katrínsdóttir - 26:37
-	4:  Thelma Ósk Björgvinsdóttir - 28:05
-	5:  Steinunn Soffía Hauksdóttir - 28:35
-	6:  Úlfhildur Unnarsdóttir - 29:59
+	1:  Þórkatla Ýr Friðriksdóttir - 290
+	2:  Thelma Ósk Björgvinsdóttir - 260
+	3:  Elísa Mist Benediktsdóttir - 220
+	4:  Úlfhildur Unnarsdóttir - 210
+	5:  Salka Katrínsdóttir - 210
+	6:  Steinunn Soffía Hauksdóttir - 160
 
 

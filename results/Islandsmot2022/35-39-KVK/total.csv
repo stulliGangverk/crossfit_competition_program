@@ -1,6 +1,6 @@
-Nafn,workout1_points,workout1_score,total_points
-Alma Káradóttir,100,24.16,100
-Hildur Guðný Káradóttir,90,25.15,90
-Bjarný Þorvarðardóttir,80,26.28,80
-Erla Júlía Jónsdóttir,70,26.4,70
-Kristín Sif Björgvinsdóttir,60,30.12,60
+Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,total_points
+Alma Káradóttir,100,24.16,100,3.26,100,9.57,300
+Hildur Guðný Káradóttir,90,25.15,80,3.54,80,14.17,250
+Kristín Sif Björgvinsdóttir,60,30.12,90,3.52,90,13.3,240
+Bjarný Þorvarðardóttir,80,26.28,70,4.11,60,15.16,210
+Erla Júlía Jónsdóttir,70,26.4,60,4.26,70,15.14,200

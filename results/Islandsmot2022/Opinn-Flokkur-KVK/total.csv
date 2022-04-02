@@ -1,11 +1,11 @@
-Nafn,workout1_points,workout1_score,total_points
-Guðbjörg Valdimarsdóttir,100,13.09,100
-Jóhanna Júlía Júlíusdóttir,90,13.54,90
-Hallgerður María Friðriksdóttir,80,14.03,80
-Birta Líf Þórarinsdóttir,70,14.44,70
-Bryndís María Björnsdóttir,60,15.04,60
-Ingibjörg Malmquist,50,15.54,50
-Sólrún Sigþórsdóttir,40,16.12,40
-Sigríður Sjöfn Ingvarsdóttir,30,17.32,30
-Guðrún Bjarnadóttir,20,17.57,20
-Dísa Edwards,10,18.34,10
+Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,total_points
+Guðbjörg Valdimarsdóttir,100,13.09,70,6.24,100,2.54,270
+Jóhanna Júlía Júlíusdóttir,90,13.54,100,5.25,70,3.31,260
+Birta Líf Þórarinsdóttir,70,14.44,80,6.07,80,3.09,230
+Hallgerður María Friðriksdóttir,80,14.03,50,6.46,90,2.59,220
+Bryndís María Björnsdóttir,60,15.04,90,6.03,30,4.33,180
+Ingibjörg Malmquist,50,15.54,60,6.41,50,4.03,160
+Sigríður Sjöfn Ingvarsdóttir,30,17.32,30,8.03,40,4.05,100
+Guðrún Bjarnadóttir,20,17.57,10,8.34,60,3.36,90
+Sólrún Sigþórsdóttir,40,16.12,40,7.4,10,5.27,90
+Dísa Edwards,10,18.34,20,8.16,20,4.56,50

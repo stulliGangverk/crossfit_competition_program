@@ -92,6 +92,7 @@ def getTopThreeTeams(teamScoreList: list) -> list:
             returnList.append(dataStr)
 
     return returnList
+#str(data['workout1_score']).replace(".", ":").ljust(5, '0')
 
 def addTopTeamsToOverallFile(teamScoreList: list, categoryString: str) -> None:
     competitionName = shared.getCompetitionName()
