@@ -1,11 +1,10 @@
-Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,workout4_points,workout4_score,total_points
-Alex Daði Reynisson,100,5.17,80,10.21,95,9.5,80,115.0,355
-Sigurður Jónsson,65,17.27,90,9.36,90,9.51,100,130.0,345
-Eggert Ólafsson,90,5.33,70,14.36,100,5.46,70,102.0,330
-Ægir Björn Gunnsteinsson,95,5.29,65,15.03,75,18.37,90,117.0,325
-Benjamín Eiríksson,55,20.25,85,9.47,80,12.25,95,128.0,315
-Ingimar Jónsson,75,10.28,100,7.48,60,19.28,75,104.0,310
-Garðar Karl Ólafsson,85,6.26,55,16.03,70,19.0,85,116.0,295
-Óskar Marínó,80,7.02,95,9.28,55,19.45,55,70.0,285
-Bjarni Leifs,60,18.47,75,11.46,85,11.0,60,71.0,280
-Axel Guðni Sigurðsson,70,10.51,60,15.38,65,19.03,65,74.0,260
+Nafn,workout1_points,workout1_score,total_points
+Ingimar Jónsson,100,13.45,100
+Ægir Björn Gunnsteinsson,90,14.17,90
+Óskar Marínó,80,14.29,80
+Axel Guðni Sigurðsson,70,14.32,70
+Sigurður Jónsson,60,14.35,60
+Eggert Ólafsson,50,14.52,50
+Garðar Karl Ólafsson,40,15.05,40
+Alex Daði Reynisson,30,16.04,30
+Benjamín Eiríksson,20,16.24,20

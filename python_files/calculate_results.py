@@ -85,10 +85,10 @@ def populateGeneralResults(folderPath: str, teamScoreList: list) -> None:
 def getTopThreeTeams(teamScoreList: list) -> list:
     returnList = []
 
-    for i in range(0, 3):
+    for i in range(0, 10):
         if len(teamScoreList) > i:
             data = teamScoreList[i]
-            dataStr = '\t' + str(i + 1) + ':  ' + data[shared.getWorkoutFieldToIndexFor()] + ' - ' + str(data['total_points'])
+            dataStr = '\t' + str(i + 1) + ':  ' + data[shared.getWorkoutFieldToIndexFor()] + ' - ' + str(data['workout1_score'])
             returnList.append(dataStr)
 
     return returnList
@@ -98,8 +98,8 @@ def addTopTeamsToOverallFile(teamScoreList: list, categoryString: str) -> None:
     competitionPath = PATH + '/' + competitionName
 
     topTeams = getTopThreeTeams(teamScoreList)
-    with open(competitionPath + '/' + consts.OVERALLFILENAME, "a+") as file:
-        file.write(categoryString.replace('_', ' -> ') + '   (' + str(len(teamScoreList)) + ' lið)')
+    with open(competitionPath + '/' + consts.OVERALLFILENAME,'a+',encoding='utf8') as file:
+        file.write(categoryString.replace('_', ' -> ') + '   (' + str(len(teamScoreList)) + ' keppendur)')
         file.write('\n')
         for teamStr in topTeams:
             file.write(teamStr)
@@ -180,7 +180,7 @@ def createOverallFile() -> None:
     competitionName = shared.getCompetitionName()
     competitionPath = PATH + '/' + competitionName
 
-    open(competitionPath + '/' + consts.OVERALLFILENAME, "w")
+    open(competitionPath + '/' + consts.OVERALLFILENAME, "w", encoding="utf8")
 
 def checkIfWorkoutsCanBeCalculated(upToNumber: int or None) -> None:
     competitonName = shared.getCompetitionName()

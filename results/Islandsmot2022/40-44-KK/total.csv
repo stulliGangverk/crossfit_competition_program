@@ -1,5 +1,3 @@
-Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,workout4_points,workout4_score,total_points
-Guðjón Ólafsson,100,7.58,90,12.4,90,14.12,100,145.0,380
-Vignir Bjarnason,85,18.46,100,5.49,95,9.14,95,113.0,375
-Þórunn Björk Steingrímsdóttir,95,11.23,95,9.46,100,8.05,85,106.0,375
-Gísli Pálsson,90,13.05,85,19.35,85,19.45,90,109.0,350
+Nafn,workout1_points,workout1_score,total_points
+Guðjón Ólafsson,100,23.53,100
+Vignir Bjarnason,90,60.0,90
