@@ -75,7 +75,7 @@ The settings availabe for every competition are as follows
 
 ###workout5
     ###ScoredByTime
-        False
+        True
     ###ScoredByTime
 ###workout5
 

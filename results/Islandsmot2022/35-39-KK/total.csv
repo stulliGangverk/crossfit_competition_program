@@ -1,7 +1,7 @@
-Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,workout4_points,workout4_score,total_points
-Stefán Helgi Einarsson,100,21.52,60,3.25,100,9.46,100,0.0,360
-Heiðar Heiðarsson,80,22.55,80,3.17,90,10.5,100,0.0,350
-Kristján Guðjónsson,90,22.12,90,3.06,60,13.19,100,0.0,340
-Ingvar Svavarsson,50,23.4,100,3.01,80,11.22,100,0.0,330
-Hörður Orri Grettisson,60,23.32,70,3.18,70,12.12,100,0.0,300
-Daði Heimisson,70,23.06,50,3.4,50,13.21,100,0.0,270
+Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,workout4_points,workout4_score,workout5_points,workout5_score,workout6_points,workout6_score,total_points
+Stefán Helgi Einarsson,100,21.52,60,3.25,100,9.46,90,2.0,90,4.31,90,6.31,530
+Ingvar Svavarsson,50,23.4,100,3.01,80,11.22,80,3.0,80,5.21,80,6.43,470
+Kristján Guðjónsson,90,22.12,90,3.06,60,13.19,60,5.0,60,7.23,60,8.22,420
+Hörður Orri Grettisson,60,23.32,70,3.18,70,12.12,50,6.0,70,6.42,70,7.26,390
+Heiðar Heiðarsson,80,22.55,80,3.17,90,10.5,100,1.0,0,0.0,0,0.0,350
+Daði Heimisson,70,23.06,50,3.4,50,13.21,70,4.0,50,8.06,50,8.24,340

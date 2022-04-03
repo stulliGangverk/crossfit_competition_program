@@ -1,92 +1,92 @@
 Opinn-Flokkur-KK   (9 keppendur)
-	1:  Ingimar Jónsson - 320
-	2:  Ægir Björn Gunnsteinsson - 310
-	3:  Eggert Ólafsson - 280
-	4:  Sigurður Jónsson - 270
-	5:  Axel Guðni Sigurðsson - 260
-	6:  Óskar Marínó - 210
-	7:  Alex Daði Reynisson - 200
-	8:  Garðar Karl Ólafsson - 170
-	9:  Benjamín Eiríksson - 150
+	1:  Ingimar Jónsson - 380
+	2:  Sigurður Jónsson - 350
+	3:  Ægir Björn Gunnsteinsson - 340
+	4:  Eggert Ólafsson - 320
+	5:  Axel Guðni Sigurðsson - 310
+	6:  Alex Daði Reynisson - 300
+	7:  Garðar Karl Ólafsson - 260
+	8:  Óskar Marínó - 240
+	9:  Benjamín Eiríksson - 220
 
 
 Opinn-Flokkur-KVK   (10 keppendur)
-	1:  Jóhanna Júlía Júlíusdóttir - 360
-	2:  Guðbjörg Valdimarsdóttir - 360
-	3:  Hallgerður María Friðriksdóttir - 280
-	4:  Birta Líf Þórarinsdóttir - 240
-	5:  Bryndís María Björnsdóttir - 200
-	6:  Ingibjörg Malmquist - 200
-	7:  Sigríður Sjöfn Ingvarsdóttir - 170
-	8:  Sólrún Sigþórsdóttir - 170
-	9:  Guðrún Bjarnadóttir - 140
-	10:  Dísa Edwards - 80
+	1:  Guðbjörg Valdimarsdóttir - 540
+	2:  Jóhanna Júlía Júlíusdóttir - 480
+	3:  Hallgerður María Friðriksdóttir - 460
+	4:  Bryndís María Björnsdóttir - 370
+	5:  Birta Líf Þórarinsdóttir - 360
+	6:  Ingibjörg Malmquist - 280
+	7:  Sigríður Sjöfn Ingvarsdóttir - 240
+	8:  Sólrún Sigþórsdóttir - 230
+	9:  Guðrún Bjarnadóttir - 220
+	10:  Dísa Edwards - 140
 
 
 35-39-KK   (6 keppendur)
-	1:  Stefán Helgi Einarsson - 360
-	2:  Heiðar Heiðarsson - 350
-	3:  Kristján Guðjónsson - 340
-	4:  Ingvar Svavarsson - 330
-	5:  Hörður Orri Grettisson - 300
-	6:  Daði Heimisson - 270
+	1:  Stefán Helgi Einarsson - 530
+	2:  Ingvar Svavarsson - 470
+	3:  Kristján Guðjónsson - 420
+	4:  Hörður Orri Grettisson - 390
+	5:  Heiðar Heiðarsson - 350
+	6:  Daði Heimisson - 340
 
 
 35-39-KVK   (5 keppendur)
-	1:  Alma Káradóttir - 400
-	2:  Hildur Guðný Káradóttir - 350
-	3:  Kristín Sif Björgvinsdóttir - 340
-	4:  Bjarný Þorvarðardóttir - 310
-	5:  Erla Júlía Jónsdóttir - 300
+	1:  Alma Káradóttir - 590
+	2:  Kristín Sif Björgvinsdóttir - 500
+	3:  Hildur Guðný Káradóttir - 460
+	4:  Bjarný Þorvarðardóttir - 460
+	5:  Erla Júlía Jónsdóttir - 390
 
 
 40-44-KK   (2 keppendur)
-	1:  Guðjón Ólafsson - 400
-	2:  Vignir Bjarnason - 370
+	1:  Guðjón Ólafsson - 600
+	2:  Vignir Bjarnason - 540
 
 
 40-44-KVK   (5 keppendur)
-	1:  Anna Svavarsdóttir - 370
-	2:  Erla Guðmundsdóttir - 370
-	3:  Rakel Tryggvadóttir - 350
-	4:  Sigrún Nanna Karlsdóttir - 330
-	5:  Andrea Ósk Guðlaugsdóttir - 280
+	1:  Anna Svavarsdóttir - 560
+	2:  Erla Guðmundsdóttir - 550
+	3:  Rakel Tryggvadóttir - 470
+	4:  Sigrún Nanna Karlsdóttir - 440
+	5:  Andrea Ósk Guðlaugsdóttir - 380
 
 
 45-49-KK   (6 keppendur)
-	1:  Ægir Reynisson - 400
-	2:  Evert Víglundsson - 350
-	3:  Elías Árni Jónsson - 340
-	4:  Magnús Gíslason - 330
-	5:  Sigtryggur Símonarson - 270
-	6:  Steinar Sigurðarson - 260
+	1:  Ægir Reynisson - 570
+	2:  Evert Víglundsson - 500
+	3:  Elías Árni Jónsson - 490
+	4:  Magnús Gíslason - 430
+	5:  Steinar Sigurðarson - 390
+	6:  Sigtryggur Símonarson - 320
 
 
 45-49-KVK   (3 keppendur)
-	1:  Helga Guðmundsdóttir - 400
-	2:  E. Linda Helgadóttir - 370
-	3:  Anja Karlsdóttir - 340
+	1:  Helga Guðmundsdóttir - 590
+	2:  E. Linda Helgadóttir - 550
+	3:  Anja Karlsdóttir - 480
 
 
 50-54-KK   (3 keppendur)
-	1:  Guðjón Arinbjörnsson - 380
-	2:  Heiðar Örn sverrisson - 380
-	3:  Sæmundur Árnason - 350
+	1:  Guðjón Arinbjörnsson - 570
+	2:  Heiðar Örn sverrisson - 530
+	3:  Sæmundur Árnason - 520
 
 
 50-54-KVK   (5 keppendur)
-	1:  Ingibjörg Gísladóttir - 380
-	2:  Ingibjörg Jónsdóttir - 370
-	3:  Kristín Kristjánsdóttir - 360
-	4:  Hrönn Birgisdóttir - 310
-	5:  Jóhanna Jóhannsdóttir - 280
+	1:  Kristín Kristjánsdóttir - 550
+	2:  Ingibjörg Gísladóttir - 530
+	3:  Ingibjörg Jónsdóttir - 500
+	4:  Hrönn Birgisdóttir - 460
+	5:  Jóhanna Jóhannsdóttir - 360
 
 
 55-59-KK   (4 keppendur)
-	1:  Örn V. Arnarson - 390
-	2:  Andrés Thor Hinriksson - 350
-	3:  Gísli Hjartarson - 340
-	4:  Eggert Marínósson - 340
+	1:  Örn V. Arnarson - 550
+	2:  Andrés Thor Hinriksson - 520
+	3:  Gísli Hjartarson - 500
+	4:  Eggert Marínósson - 480
 
 
 55-59-KVK   (1 keppendur)
@@ -94,33 +94,33 @@ Opinn-Flokkur-KVK   (10 keppendur)
 
 
 14-15-KK   (3 keppendur)
-	1:  Haukur Rafn Sigurðsson - 390
-	2:  Jón Þorri Jónsson - 380
-	3:  Aron Leó Jóhannson - 340
+	1:  Jón Þorri Jónsson - 560
+	2:  Haukur Rafn Sigurðsson - 530
+	3:  Aron Leó Jóhannson - 330
 
 
 14-15-KVK   (4 keppendur)
-	1:  Bergrós Björnsdóttir - 380
-	2:  Hulda Finnbogadóttir - 370
-	3:  Emilía Nótt Davíðsdóttir - 360
-	4:  Ísabella Ýr Pétursdóttir - 310
+	1:  Bergrós Björnsdóttir - 550
+	2:  Emilía Nótt Davíðsdóttir - 490
+	3:  Hulda Finnbogadóttir - 490
+	4:  Ísabella Ýr Pétursdóttir - 210
 
 
 16-17-KK   (6 keppendur)
-	1:  Tindur Elíasen - 380
-	2:  Aðalsteinn Þorsteinsson - 360
-	3:  Þórbergur Hlynsson - 340
-	4:  Tryggvi Freyr Magnússon - 310
-	5:  Ari Tómas Hjálmarsson - 300
-	6:  Almar Daði Harðarson - 260
+	1:  Tindur Elíasen - 510
+	2:  Aðalsteinn Þorsteinsson - 420
+	3:  Ari Tómas Hjálmarsson - 420
+	4:  Tryggvi Freyr Magnússon - 380
+	5:  Þórbergur Hlynsson - 240
+	6:  Almar Daði Harðarson - 160
 
 
 16-17-KVK   (6 keppendur)
-	1:  Þórkatla Ýr Friðriksdóttir - 390
-	2:  Thelma Ósk Björgvinsdóttir - 360
-	3:  Elísa Mist Benediktsdóttir - 320
-	4:  Úlfhildur Unnarsdóttir - 310
-	5:  Salka Katrínsdóttir - 310
-	6:  Steinunn Soffía Hauksdóttir - 260
+	1:  Þórkatla Ýr Friðriksdóttir - 580
+	2:  Úlfhildur Unnarsdóttir - 490
+	3:  Thelma Ósk Björgvinsdóttir - 460
+	4:  Elísa Mist Benediktsdóttir - 420
+	5:  Salka Katrínsdóttir - 400
+	6:  Steinunn Soffía Hauksdóttir - 350
 
 

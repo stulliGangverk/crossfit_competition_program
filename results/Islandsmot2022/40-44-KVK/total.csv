@@ -1,6 +1,6 @@
-Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,workout4_points,workout4_score,total_points
-Anna Svavarsdóttir,70,26.59,100,3.42,100,10.31,100,0.0,370
-Erla Guðmundsdóttir,90,25.29,90,3.47,90,11.28,100,0.0,370
-Rakel Tryggvadóttir,100,25.28,70,4.06,80,15.16,100,0.0,350
-Sigrún Nanna Karlsdóttir,80,25.59,80,3.55,70,15.45,100,0.0,330
-Andrea Ósk Guðlaugsdóttir,60,27.28,60,4.4,60,15.52,100,0.0,280
+Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,workout4_points,workout4_score,workout5_points,workout5_score,workout6_points,workout6_score,total_points
+Anna Svavarsdóttir,70,26.59,100,3.42,100,10.31,100,1.0,100,5.22,90,6.5,560
+Erla Guðmundsdóttir,90,25.29,90,3.47,90,11.28,90,2.0,90,6.53,100,6.35,550
+Rakel Tryggvadóttir,100,25.28,70,4.06,80,15.16,80,3.0,70,8.31,70,8.04,470
+Sigrún Nanna Karlsdóttir,80,25.59,80,3.55,70,15.45,70,4.0,60,8.42,80,8.01,440
+Andrea Ósk Guðlaugsdóttir,60,27.28,60,4.4,60,15.52,60,5.0,80,8.04,60,8.09,380

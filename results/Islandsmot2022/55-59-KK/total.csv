@@ -1,5 +1,5 @@
-Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,workout4_points,workout4_score,total_points
-Örn V. Arnarson,100,25.38,100,3.45,90,13.27,100,0.0,390
-Andrés Thor Hinriksson,80,27.1,70,4.33,100,10.03,100,0.0,350
-Gísli Hjartarson,70,30.42,90,3.54,80,15.45,100,0.0,340
-Eggert Marínósson,90,25.56,80,4.19,70,16.14,100,0.0,340
+Nafn,workout1_points,workout1_score,workout2_points,workout2_score,workout3_points,workout3_score,workout4_points,workout4_score,workout5_points,workout5_score,workout6_points,workout6_score,total_points
+Örn V. Arnarson,100,25.38,100,3.45,90,13.27,100,1.0,90,7.36,70,8.01,550
+Andrés Thor Hinriksson,80,27.1,70,4.33,100,10.03,70,3.0,100,4.12,100,5.55,520
+Gísli Hjartarson,70,30.42,90,3.54,80,15.45,100,1.0,80,7.45,80,7.59,500
+Eggert Marínósson,90,25.56,80,4.19,70,16.14,80,2.0,70,8.07,90,7.05,480

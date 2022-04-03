@@ -46,8 +46,12 @@ def calculateScorePointsHelper(score: float, calculatedScoreCounts: list):
     for calculatedScore in calculatedScoreCounts:
         if calculatedScore['Skor'] == score:
             calculatedScore = consts.POINTSFORFIRSTPLACE - consts.DECREMENT * count
-            if calculatedScore < 0:
+            if calculatedScore <= 0:
                 return 0.0
+                
+            elif score == 0:
+                calculatedScore = 0
+                return calculatedScore
             else:
                 return calculatedScore
         else:
