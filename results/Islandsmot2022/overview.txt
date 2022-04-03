@@ -1,26 +1,26 @@
 Opinn-Flokkur-KK   (9 keppendur)
-	1:  Ægir Björn Gunnsteinsson - 330
-	2:  Sigurður Jónsson - 310
-	3:  Alex Daði Reynisson - 280
-	4:  Eggert Ólafsson - 280
-	5:  Óskar Marínó - 270
-	6:  Ingimar Jónsson - 240
-	7:  Axel Guðni Sigurðsson - 200
-	8:  Garðar Karl Ólafsson - 150
-	9:  Benjamín Eiríksson - 110
+	1:  Ingimar Jónsson - 320
+	2:  Ægir Björn Gunnsteinsson - 310
+	3:  Eggert Ólafsson - 280
+	4:  Sigurður Jónsson - 270
+	5:  Axel Guðni Sigurðsson - 260
+	6:  Óskar Marínó - 210
+	7:  Alex Daði Reynisson - 200
+	8:  Garðar Karl Ólafsson - 170
+	9:  Benjamín Eiríksson - 150
 
 
 Opinn-Flokkur-KVK   (10 keppendur)
-	1:  Birta Líf Þórarinsdóttir - 330
-	2:  Guðbjörg Valdimarsdóttir - 290
-	3:  Hallgerður María Friðriksdóttir - 270
-	4:  Jóhanna Júlía Júlíusdóttir - 270
-	5:  Bryndís María Björnsdóttir - 270
-	6:  Ingibjörg Malmquist - 230
-	7:  Guðrún Bjarnadóttir - 150
-	8:  Sigríður Sjöfn Ingvarsdóttir - 140
-	9:  Dísa Edwards - 130
-	10:  Sólrún Sigþórsdóttir - 120
+	1:  Jóhanna Júlía Júlíusdóttir - 360
+	2:  Guðbjörg Valdimarsdóttir - 360
+	3:  Hallgerður María Friðriksdóttir - 280
+	4:  Birta Líf Þórarinsdóttir - 240
+	5:  Bryndís María Björnsdóttir - 200
+	6:  Ingibjörg Malmquist - 200
+	7:  Sigríður Sjöfn Ingvarsdóttir - 170
+	8:  Sólrún Sigþórsdóttir - 170
+	9:  Guðrún Bjarnadóttir - 140
+	10:  Dísa Edwards - 80
 
 
 35-39-KK   (6 keppendur)

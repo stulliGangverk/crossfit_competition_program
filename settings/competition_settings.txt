@@ -69,13 +69,13 @@ The settings availabe for every competition are as follows
 
 ###workout4
     ###ScoredByTime
-        False
+        True
     ###ScoredByTime
 ###workout4
 
 ###workout5
     ###ScoredByTime
-        True
+        False
     ###ScoredByTime
 ###workout5
 
