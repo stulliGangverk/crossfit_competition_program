@@ -1,13 +1,13 @@
 Opinn-Flokkur-KK   (9 keppendur)
-	1:  Ingimar Jónsson - 380
-	2:  Sigurður Jónsson - 350
-	3:  Ægir Björn Gunnsteinsson - 340
-	4:  Eggert Ólafsson - 320
-	5:  Axel Guðni Sigurðsson - 310
-	6:  Alex Daði Reynisson - 300
-	7:  Garðar Karl Ólafsson - 260
-	8:  Óskar Marínó - 240
-	9:  Benjamín Eiríksson - 220
+	1:  Ingimar Jónsson - 470
+	2:  Sigurður Jónsson - 450
+	3:  Ægir Björn Gunnsteinsson - 410
+	4:  Axel Guðni Sigurðsson - 370
+	5:  Eggert Ólafsson - 340
+	6:  Alex Daði Reynisson - 330
+	7:  Óskar Marínó - 320
+	8:  Garðar Karl Ólafsson - 310
+	9:  Benjamín Eiríksson - 260
 
 
 Opinn-Flokkur-KVK   (10 keppendur)
